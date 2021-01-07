@@ -1,0 +1,6 @@
+1.1
+- Added WordPress 5 compatibility
+- Updated WPBakery Page Builder to 5.6
+- Updated Revolution Slider to 5.4.8.2
+- Updated Envato Market to 2.0.1
+- Minor style improvements

@@ -1,0 +1,77 @@
+Release – v.1.6.0
+    * Add new skin "Coronavirus"
+    * Fixed: Improved styles for Elementor's display elements
+    * Minor CSS update
+    * Minor JS update (WOO)
+
+Release – v.1.5.9
+    * Fixed:
+        - Themerex Addons vulnarability fixed
+
+Release – v.1.5.8(1.0.61.3)
+    * Added new skin "Review"
+    * Fixed:
+        - Changed support link
+        - Improved styles for shipping calculator form
+        - Updated "_remove_protocol_from_url" function
+        - Fixed video after ajax loading
+
+    * Plugin TRX Addons has been modified:
+        - Fixed code to display the "T" icon in the elementor shortcode
+
+Release – v.1.5.7
+   * Add new skin "News General"
+   * Fixed:
+    - Compatibility with WordPress 5.3
+
+Release – v.1.5.6 (1.0.61.2.1)
+   * Add new skin "Startup"
+   - Plugin TRX Addons has been modified.
+           ...\trx_addons\components\widgets\recent_news\recent_news-sc.php (line - 83)
+
+Release – v.1.5.5
+   * Add new skin "Gadgets"
+
+Release – v.1.5.4
+   * Add new skin "Architecture"
+
+Release – v.1.5.3
+   * Add new skin "Sports News"
+
+Release – v.1.5.2
+   * Add new skin "Healthy Nutrition"
+
+Release – v.1.5.1
+   * Add new skin "Crypto"
+
+Release – v.1.5.0
+   * Fixed downloading skins for a child theme
+   * Add new skin "Entertainment"
+
+Release – v.1.4.0
+   * Fixed Elementor responsive
+
+Release – v.1.3.0
+   * Fixed skin Food activation
+
+Release – v.1.2.0
+    * Add new skins "Travel Minimal" and "Science"
+    * Fixed Team show layout
+    * Minor CSS update (Gaming skin)
+    * Minor CSS update
+
+Release – v.1.1.2
+    * Reload skins admin panel fixed
+    * Add new skin "Interior"
+
+Release – v.1.1.1
+    * Embed blocks fixed
+
+Release – v.1.1.0
+    * Minor update Gutenberg preview
+    * Minor CSS update (dots hover)
+
+Release – v.1.0 (1.0.61.2)
+    - Plugin TRX Addons has been modified.
+        1. ...\trx_addons\includes\plugin.media.php (line - 344)
+        2. ...\trx_addons\components\extended-taxonomy\extended-taxonomy.php (line -124)

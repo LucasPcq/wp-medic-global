@@ -1,0 +1,140 @@
+{
+    "default": {
+        "title": "Default",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//blabber.ancorathemes.com/"
+    },
+    "tech": {
+        "title": "Tech",
+        "description": "",
+        "version": "1.1",
+        "demo_url": "//tech.blabber.ancorathemes.com/"
+    },
+    "traveler": {
+        "title": "Traveler",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//traveler.blabber.ancorathemes.com/"
+    },
+    "fashion": {
+        "title": "Fashion",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//fashion.blabber.ancorathemes.com/"
+    },
+    "minimal": {
+        "title": "Minimal",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//minimal.blabber.ancorathemes.com/"
+    },
+    "gaming": {
+        "title": "Gaming",
+        "description": "",
+        "version": "1.1",
+        "demo_url": "//gaming.blabber.ancorathemes.com/"
+    },
+    "art-design": {
+        "title": "Art & Design",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//art-design.blabber.ancorathemes.com/"
+    },
+    "food": {
+        "title": "Food",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//food.blabber.ancorathemes.com/"
+    },
+    "mens-style": {
+        "title": "Men's Style",
+        "description": "",
+        "version": "1.1",
+        "demo_url": "//mens-style.blabber.ancorathemes.com/"
+    },
+    "interior": {
+        "title": "Interior",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//interior.blabber.ancorathemes.com/"
+    },
+    "travel-minimal": {
+        "title": "Travel Minimal",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//travel-minimal.blabber.ancorathemes.com/"
+    },
+    "science": {
+        "title": "Science",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//science.blabber.ancorathemes.com/"
+    },
+    "personal": {
+        "title": "Personal",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//personal.blabber.ancorathemes.com/"
+    },
+    "entertainment": {
+        "title": "Entertainment",
+        "description": "",
+        "version": "1.0.1",
+        "demo_url": "//entertainment.blabber.ancorathemes.com/"
+    },
+    "crypto": {
+        "title": "Crypto",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//crypto.blabber.ancorathemes.com/"
+    },
+    "healthy-nutrition": {
+        "title": "Healthy Nutrition",
+        "description": "",
+        "version": "1.0.1",
+        "demo_url": "//healthy-nutrition.blabber.ancorathemes.com/"
+    },
+    "sports-news": {
+        "title": "Sports News",
+        "description": "",
+        "version": "1.0.1",
+        "demo_url": "//sports.blabber.ancorathemes.com/"
+    },
+    "architecture": {
+        "title": "Architecture",
+        "description": "",
+        "version": "1.0.1",
+        "demo_url": "//architecture.blabber.ancorathemes.com/"
+    },
+    "gadgets": {
+        "title": "Gadgets",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//gadgets.blabber.ancorathemes.com/"
+    },
+    "startup": {
+        "title": "Startup",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//startup.blabber.ancorathemes.com/"
+    },
+    "news-general": {
+        "title": "News General",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//news-general.blabber.ancorathemes.com/"
+    },
+    "review": {
+        "title": "Review",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//review.blabber.ancorathemes.com/"
+    },
+    "coronavirus": {
+        "title": "Coronavirus",
+        "description": "",
+        "version": "1.0",
+        "demo_url": "//coronavirus.blabber.ancorathemes.com/"
+    }
+}

@@ -1,0 +1,1 @@
+wordpress-5.6.0,GPL2,http://wordpress.org/wordpress-5.6.tar.gz

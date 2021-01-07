@@ -1,0 +1,92 @@
+/* Blog layout: Excerpt 
+------------------------- */
+
+@import "../../css/_mixins.scss";
+@import "../../css/_theme-vars.scss";
+
+.post_layout_excerpt {
+	position:relative;
+	margin-bottom:0;
+}
+.post_layout_excerpt + .post_layout_excerpt {
+	margin-top: 4.6rem;
+}
+.post_layout_excerpt:not(.sticky) + .post_layout_excerpt:not(.sticky) {
+	padding-top: 4.6rem;
+	border-top: 1px solid #eee;
+}
+.posts_container .post_layout_excerpt:last-child {
+	padding-bottom: 4.6em;
+	margin-bottom: 4em;
+	border-bottom: 1px solid #eee;
+}
+.post_layout_excerpt.sticky {
+	padding: 0;
+}
+.post_layout_excerpt .post_featured {
+	display: inline-block;
+	margin-bottom: 2.9em;
+}
+.post_layout_excerpt.post_format_audio .post_featured.without_thumb,
+.post_layout_excerpt.post_format_gallery .post_featured.without_thumb {
+	display:block;
+}
+.post_layout_excerpt .post_header {
+	margin: 0;
+	position:relative;
+}
+.post_layout_excerpt .post_header .post_price {
+	width: auto;
+	@include abs-rt;
+	@include font(2.5em, 1.5em);
+}
+.post_layout_excerpt .post_title {
+	margin: 0;
+	font-size: 30px;
+}
+.post_layout_excerpt .post_content_meta {
+	margin-top: 0;
+}
+.post_layout_excerpt .post_content_meta + .post_title {
+	margin-top: 2.15rem;
+}
+.post_layout_excerpt .post_header + .post_content {
+	margin-top:1.7rem;
+}
+
+// First post large in the Classic and Masonry
+body[class*="blog_style_classic"] .post_layout_excerpt,
+body[class*="blog_style_masonry"] .post_layout_excerpt {
+	margin-bottom: 3em;
+}
+
+/* meta */
+.post_layout_excerpt .post_content_meta .post_meta {
+	margin: 0;
+}
+.post_layout_excerpt .post_content_meta {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.post_layout_excerpt .post_content_meta .post_meta {
+	align-items: center;
+	flex: 1 60%;
+}
+.post_layout_excerpt .post_content_meta .post_meta.post_meta_counters {
+	flex: 1 40%;
+	text-align: right;
+	justify-content: right;
+}
+.post_layout_excerpt .post_content_meta .post_meta_item.post_categories {
+	margin-top: -6px;
+	display: inline-block;
+}
+
+
+.post_layout_excerpt .more-link.sc_button_hover_strike .strike-text:after,
+.post_layout_excerpt .more-link.sc_button_hover_strike:after {
+	margin-left: 18px;
+	margin-right: -2px;
+}
+

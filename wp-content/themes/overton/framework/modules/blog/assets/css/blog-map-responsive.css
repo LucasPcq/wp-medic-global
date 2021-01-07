@@ -1,0 +1,122 @@
+/* ==========================================================================
+   Blog responsive styles - begin
+   ========================================================================== */
+@media only screen and (max-width: 1024px) {
+  .mkdf-blog-holder article.format-link .mkdf-post-text, .mkdf-blog-holder article.format-quote .mkdf-post-text {
+    padding: 64px 15px 61px;
+  }
+}
+
+/* ==========================================================================
+   Blog List - Masonry style - start
+   ========================================================================== */
+@media only screen and (max-width: 1024px) {
+  .mkdf-blog-holder.mkdf-blog-masonry article.format-quote .mkdf-post-text, .mkdf-blog-holder.mkdf-blog-masonry articleformat-link .mkdf-post-text {
+    padding: 70px 15px 67px;
+  }
+}
+
+/* ==========================================================================
+   Blog List - Masonry style - end
+   ========================================================================== */
+/* ==========================================================================
+   Blog List - Overton responsive style - begin
+   ========================================================================== */
+@media only screen and (max-width: 1200px) {
+  .mkdf-blog-holder.mkdf-blog-overton {
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .mkdf-blog-holder.mkdf-blog-overton article:not(.format-link):not(.format-quote) .mkdf-post-info-left .mkdf-post-info-date {
+    bottom: 103%;
+  }
+  .mkdf-blog-holder.mkdf-blog-overton article:not(.format-link):not(.format-quote) .mkdf-post-heading,
+  .mkdf-blog-holder.mkdf-blog-overton article:not(.format-link):not(.format-quote) .mkdf-post-text {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .mkdf-blog-holder.mkdf-blog-overton {
+    width: 100%;
+  }
+  .mkdf-blog-holder.mkdf-blog-overton article .mkdf-post-info-bottom {
+    margin-top: 0;
+    padding: 0;
+  }
+  .mkdf-blog-holder.mkdf-blog-overton article .mkdf-info-bottom-item {
+    display: block;
+    width: 100%;
+    margin: 20px 0;
+    text-align: center !important;
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  .mkdf-blog-holder.mkdf-blog-overton article:not(.format-link):not(.format-quote) {
+    padding: 0;
+  }
+  .mkdf-blog-holder.mkdf-blog-overton article:not(.format-link):not(.format-quote) .mkdf-post-text-main {
+    width: 100%;
+  }
+}
+
+/* ==========================================================================
+   Blog List - Overton responsive style - end
+   ========================================================================== */
+@media only screen and (max-width: 1024px) {
+  .mkdf-blog-single-navigation .mkdf-blog-single-navigation-inner {
+    margin: 0 0 5px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .mkdf-related-posts-holder .mkdf-related-post {
+    width: 50% !important;
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  .mkdf-blog-single-navigation .mkdf-blog-single-next .mkdf-blog-single-nav-title,
+  .mkdf-blog-single-navigation .mkdf-blog-single-prev .mkdf-blog-single-nav-title {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .mkdf-related-posts-holder .mkdf-related-post {
+    width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .mkdf-blog-holder.mkdf-blog-single article .mkdf-post-info-bottom .mkdf-post-info-bottom-left,
+  .mkdf-blog-holder.mkdf-blog-single article .mkdf-post-info-bottom .mkdf-post-info-bottom-right {
+    width: 100%;
+    float: none;
+  }
+  .mkdf-blog-holder.mkdf-blog-single article .mkdf-post-info-bottom .mkdf-post-info-bottom-right {
+    text-align: inherit;
+    margin: 10px 0 0;
+  }
+}
+
+/* ==========================================================================
+   Blog Slider shortcode responsive style - begin
+   ========================================================================== */
+@media only screen and (max-width: 1024px) {
+  .mkdf-blog-slider-holder.mkdf-bs-carousel-centered .active.center .mkdf-item-text-wrapper {
+    opacity: 1;
+  }
+}
+
+/* ==========================================================================
+   Blog Slider shortcode responsive style - end
+   ========================================================================== */
+/* ==========================================================================
+   Blog responsive styles - end
+   ========================================================================== */
+
+/*# sourceMappingURL=blog-map-responsive.css.map */
